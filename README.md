@@ -32,7 +32,7 @@
 ## 💻 Projeto
 
 <p align="left"> 
-    <h2>Um projeto simples com uma tela de login/cadastro básica.</h2>
+    <h3>Um projeto simples com uma tela de login/cadastro básica.</h3>
 </p>
 
  
