@@ -19,7 +19,7 @@
 </p>
 
 <p aling="center">
-    <img src="/assest/previewfinal.png" alt="#">
+    <img src="/assest/previewfinal.PNG" alt="#">
 </p>
 
 ## 🚀 Tecnologias
