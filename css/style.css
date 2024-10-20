@@ -108,6 +108,14 @@ body {
     left: 55px;
 }
 
+.btn h3 {
+    color: #ffffff;
+}
+
+.btn :hover {
+    text-decoration: dotted;
+}
+
 .main .register-link {
     display: flex;
     position: relative;
